@@ -1,0 +1,8 @@
+German_Shepherd	35
+Bulldog	30
+Poodle	25
+Labrador	20
+Beagle	15
+Golden_Retriever	10
+Husky	5
+Greyhound	0

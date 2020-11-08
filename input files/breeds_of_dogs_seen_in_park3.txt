@@ -1,0 +1,8 @@
+German_Shepherd	5
+Bulldog	5
+Poodle	5
+Labrador	5
+Beagle	5
+Golden_Retriever	5
+Husky	5
+Greyhound	5
